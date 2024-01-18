@@ -1,0 +1,17 @@
+-------------------------
+          QUOTE          
+-------------------------
+Weidar Jeffs
+4 Sunbrook Terrace
+Merced, CA 95345
+
+DESCRIPTION SUMMARY
+Dimensions: 5 x 21 x 8
+Material: Wood
+Delivery: Yes
+
+PRICE SUMMARY
+Walls:    $624
+Roof:     $315
+Delivery: $100
+Total:    $1039
