@@ -1,0 +1,13 @@
+
+              | Shannen Hammell
+              | 
+              | Student
+  UNIVERSITY  | 
+      OF      | Electrical Engineering
+  CALIFORNIA  | School of Engineering
+    MERCED    | 
+              | 5200 Lake Road | Merced, CA 95343
+              | shammell@ucmerced.edu
+              | 839-850-5947
+
+BUILDING THE FUTURE IN THE HEART OF CALIFORNIA

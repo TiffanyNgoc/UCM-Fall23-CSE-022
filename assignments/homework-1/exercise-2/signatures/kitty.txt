@@ -1,0 +1,13 @@
+
+              | Kitty Meindl
+              | 
+              | Student
+  UNIVERSITY  | 
+      OF      | Bioengineering
+  CALIFORNIA  | School of Engineering
+    MERCED    | 
+              | 5200 Lake Road | Merced, CA 95343
+              | kmeindl@ucmerced.edu
+              | 846-444-1752
+
+BUILDING THE FUTURE IN THE HEART OF CALIFORNIA
