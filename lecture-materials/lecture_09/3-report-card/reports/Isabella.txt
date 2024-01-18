@@ -1,0 +1,3 @@
+English C
+Science A
+Math F
